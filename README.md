@@ -41,9 +41,6 @@ Connect-PC/
 
 2. Open `index.html` in your web browser to view the website
 
-## Live Demo
-
-You can view the live site by opening the `index.html` file in any modern web browser.
 
 ## Learning Outcomes
 
@@ -57,10 +54,6 @@ This project helped me learn:
 ## Feedback
 
 This is my first web development project, and feedback is welcome! Feel free to open an issue or submit a pull request if you have suggestions for improvements.
-
-## License
-
-This project is open source and available for educational purposes.
 
 ## Author
 
